@@ -8,7 +8,7 @@
 
 You are required to perform and document all the your processes, from data collection to deploying machine learning Model Using FastAPI.
 
-1). Data Collection.
+<b>  1). Data Collection. </b>
 
 You are supposed to use the Classic Auto MPG dataset available at UCI ML Repository, Download the dataset [here](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 
@@ -17,20 +17,22 @@ You are supposed to use the Classic Auto MPG dataset available at UCI ML Reposit
 
 Frame your question based on description and initial exploration.
 
-3). Exploratory Data Analysis
+<b>  3). Exploratory Data Analysis </b>
 
 Carry out exploratory data analysis to figure out the important features and creating new combination of features.
 
-4). Data Preparation.
+<b> 4). Data Preparation. </b>
 
-5). Selecting and Training Machine Learning Models
+Create a pipe line of tasks  to transform the data to be loaded in our machine learning models
+
+<b> 5). Selecting and Training Machine Learning Models </b>
 
 Train a few machine learning models to evaluate their predictions using cross validation.
 
-6). Hyperparameters Tuning
+<b> 6). Hyperparameters Tuning </b>
 
 Fine tune the hyperparameters for the models that showed promising results.
 
-7). Deploy your Machine learnig Model using web service.
+<b> 7). Deploy your Machine learnig Model using web service.</b>
 
 Deploy your model using FastAPI and Docker on Heroku.
