@@ -1,15 +1,19 @@
 # Data-Science-challenge-101 Data Science East Africa 
 
+
 <b> <center> Data Science Challege 101. </center> </b>
-¶
-1). Predicting Fuel Efficiency of the Vehicle: 
+
+
+<b> 1). Predicting Fuel Efficiency of the Vehicle: </b>
+
 You are required to perform and document all the your processes, from data collection to deploying machine learning Model Using FastAPI.
 
 1). Data Collection.
 
-You are supposed to use the Classic Auto MPG dataset available at UCI ML Repository, Download the dataset here
+You are supposed to use the Classic Auto MPG dataset available at UCI ML Repository, Download the dataset [here](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 
-2). Define Problem Statement
+
+<b> 2). Define Problem Statement </b>
 
 Frame your question based on description and initial exploration.
 
